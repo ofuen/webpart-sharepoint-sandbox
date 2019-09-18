@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## my-first-app
 
 This is where you include your WebPart documentation.
@@ -28,4 +27,3 @@ gulp package-solution - TODO
 =======
 # webpart-sharepoint-sandbox
 SharePoint Framework (SPFx) 
->>>>>>> 51f6e57e8d03849acd9d189dbaec16c3964c75c1
